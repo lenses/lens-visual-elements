@@ -16,7 +16,7 @@
     "th-google-scatter-bubble": "https://github.com/thelmanews/th-google-scatter-bubble.git",
     "th-line-graph-touch": "https://github.com/thelmanews/th-line-graph-touch.git",
     "th-spectrum-chart": "https://github.com/thelmanews/th-spectrum-chart.git",
-    "th-google-line": "https://github.com/thelmanews/th-google-line.git",
+    "th-google-line": "thelmanews/th-google-line",
     "th-stacked-chart": "https://github.com/thelmanews/th-stacked-chart.git"
   }
 }
