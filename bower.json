@@ -1,23 +1,23 @@
 {
-  "name": "input-elements",
+  "name": "visual-elements",
   "version": "0.0.0",
-  "keywords": "thelma, polymer, web-components",
-  "main": "input-elements.html",
+  "keywords": "lenses, polymer, web-components",
+  "main": "visual-elements.html",
   "dependencies": {  
     "polymer": "Polymer/polymer#~0.5.1",
-    "th-google-map": "thelmanews/th-google-map",
-    "th-mapbox": "thelmanews/th-mapbox",
-    "th-map-us": "thelmanews/th-map-us",
-    "th-n-bar-chart": "thelmanews/th-n-bar-chart",
-    "th-n-bar-chart-horizontal": "thelmanews/th-n-bar-chart-horizontal",
-    "th-n-peak-chart": "thelmanews/th-n-peak-chart",
-    "th-google-pie": "https://github.com/thelmanews/th-google-pie.git",
-    "th-google-bar-chart": "https://github.com/thelmanews/th-google-bar-chart.git",
-    "th-google-scatter-bubble": "https://github.com/thelmanews/th-google-scatter-bubble.git",
-    "th-line-graph-touch": "https://github.com/thelmanews/th-line-graph-touch.git",
-    "th-spectrum-chart": "https://github.com/thelmanews/th-spectrum-chart.git",
-    "th-google-line": "thelmanews/th-google-line",
-    "th-stacked-chart": "https://github.com/thelmanews/th-stacked-chart.git"
+    "lens-google-map": "lenses/lens-google-map",
+    "lens-mapbox": "lenses/lens-mapbox",
+    "lens-map-us": "lenses/lens-map-us",
+    "lens-n-bar-chart": "lenses/lens-n-bar-chart",
+    "lens-n-bar-chart-horizontal": "lenses/lens-n-bar-chart-horizontal",
+    "lens-n-peak-chart": "lenses/lens-n-peak-chart",
+    "lens-google-pie": "https://github.com/lenses/lens-google-pie.git",
+    "lens-google-bar-chart": "https://github.com/lenses/lens-google-bar-chart.git",
+    "lens-google-scatter-bubble": "https://github.com/lenses/lens-google-scatter-bubble.git",
+    "lens-line-graph-touch": "https://github.com/lenses/lens-line-graph-touch.git",
+    "lens-spectrum-chart": "https://github.com/lenses/lens-spectrum-chart.git",
+    "lens-google-line": "lenses/lens-google-line",
+    "lens-stacked-chart": "https://github.com/lenses/lens-stacked-chart.git"
   }
 }
 
