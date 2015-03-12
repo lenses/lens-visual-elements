@@ -5,19 +5,19 @@
   "main": "visual-elements.html",
   "dependencies": {  
     "polymer": "Polymer/polymer#~0.5.1",
-    "lens-google-map": "lenses/lens-google-map",
-    "lens-mapbox": "lenses/lens-mapbox",
-    "lens-map-us": "lenses/lens-map-us",
-    "lens-n-bar-chart": "lenses/lens-n-bar-chart",
-    "lens-n-bar-chart-horizontal": "lenses/lens-n-bar-chart-horizontal",
-    "lens-n-peak-chart": "lenses/lens-n-peak-chart",
-    "lens-google-pie": "https://github.com/lenses/lens-google-pie.git",
-    "lens-google-bar-chart": "https://github.com/lenses/lens-google-bar-chart.git",
-    "lens-google-scatter-bubble": "https://github.com/lenses/lens-google-scatter-bubble.git",
-    "lens-line-graph-touch": "https://github.com/lenses/lens-line-graph-touch.git",
-    "lens-spectrum-chart": "https://github.com/lenses/lens-spectrum-chart.git",
-    "lens-google-line": "lenses/lens-google-line",
-    "lens-stacked-chart": "https://github.com/lenses/lens-stacked-chart.git"
+    "lens-viz-g-map": "lenses/lens-viz-g-map",
+    "lens-viz-mapbox": "lenses/lens-viz-mapbox",
+    "lens-viz-map-us": "lenses/lens-viz-map-us",
+    "lens-viz-bar-chart": "lenses/lens-viz-bar-chart",
+    "lens-viz-bar-chart-horizontal": "lenses/lens-viz-bar-chart-horizontal",
+    "lens-viz-peak-chart": "lenses/lens-viz-peak-chart",
+    "lens-viz-g-pie-chart": "https://github.com/lenses/lens-viz-g-pie-chart.git",
+    "lens-viz-g-bar-chart": "https://github.com/lenses/lens-viz-g-bar-chart.git",
+    "lens-viz-g-scatter-bubble": "https://github.com/lenses/lens-viz-g-scatter-bubble.git",
+    "lens-viz-line-chart-touch": "https://github.com/lenses/lens-viz-line-chart-touch.git",
+    "lens-viz-spectrum-chart": "https://github.com/lenses/lens-viz-spectrum-chart.git",
+    "lens-viz-g-line-chart": "lenses/lens-viz-g-line-chart",
+    "lens-viz-stacked-chart": "https://github.com/lenses/lens-viz-stacked-chart.git"
   }
 }
 
