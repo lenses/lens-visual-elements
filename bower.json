@@ -17,6 +17,7 @@
     "lens-viz-line-chart-touch": "https://github.com/lenses/lens-viz-line-chart-touch.git",
     "lens-viz-spectrum-chart": "https://github.com/lenses/lens-viz-spectrum-chart.git",
     "lens-viz-g-line-chart": "lenses/lens-viz-g-line-chart",
+    "lens-viz-am-combo-chart": "lenses/lens-viz-am-combo-chart",
     "lens-viz-stacked-chart": "https://github.com/lenses/lens-viz-stacked-chart.git"
   }
 }
